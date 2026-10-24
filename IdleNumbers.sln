@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdleNumbers", "src\IdleNumbers\IdleNumbers.csproj", "{CF07503B-89F7-4F44-92A5-7830A36B8421}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdleNumbers.Tests", "tests\IdleNumbers.Tests\IdleNumbers.Tests.csproj", "{5E52A17A-969F-4B2C-920E-41A912A45C74}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {CF07503B-89F7-4F44-92A5-7830A36B8421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {CF07503B-89F7-4F44-92A5-7830A36B8421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {CF07503B-89F7-4F44-92A5-7830A36B8421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {CF07503B-89F7-4F44-92A5-7830A36B8421}.Release|Any CPU.Build.0 = Release|Any CPU
+        {5E52A17A-969F-4B2C-920E-41A912A45C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {5E52A17A-969F-4B2C-920E-41A912A45C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {5E52A17A-969F-4B2C-920E-41A912A45C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {5E52A17A-969F-4B2C-920E-41A912A45C74}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+EndGlobal
